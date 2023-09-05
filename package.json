@@ -1,0 +1,26 @@
+{
+  "name": "toodu",
+  "version": "1.0.0",
+  "description": "To do app to practice coding",
+  "main": "app.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoGarciaLeon/TooDu.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "html",
+    "css",
+    "todo"
+  ],
+  "author": "Rodrigo Garcia Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoGarciaLeon/TooDu/issues"
+  },
+  "homepage": "https://github.com/RodrigoGarciaLeon/TooDu#readme"
+}
